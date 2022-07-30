@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![ Renoso GitHub stats](https://github-readme-stats.vercel.app/api?username=renoso&show_icons=true&theme=radical)
 
-## Tecnologias que estou aprendendo.
+## Tecnologias que estou praticando.
 
 <div style= "display: inline_block" >
   <img aline="center"  alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
