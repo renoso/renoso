@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renoso
 - 👀 I’m interested in.. JavaScript, PHP, Phyton
-- 🌱 I’m currently learning  ... HTML, CSS
+- 🌱 I’m currently learning  ... HTML, CSS, JavaScripit.
 - 💞️ I’m looking to collaborate on ... Toda aria de progamação
 - 📫 How to reach me...
 
