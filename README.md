@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 
 ## Projetos criados.
 
-<a href="https://projetoclima.vercel.app/"> Clima </a> ** 🌤
+<a target="_blank" href="https://projetoclima.vercel.app/">Clima Nassau</a> 🌤
