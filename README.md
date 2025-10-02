@@ -1,7 +1,7 @@
 # Meu Readme | Um pouco da Historia e Gostos
 
 - 👋 Hi, I’m @renoso
-- 👀 I’m interested in.. JavaScript, PHP, java
+- 👀 I’m interested in.. java
 - 🌱 I’m currently learning  ... **Front-end:** Angula | js
 - 🌱 I’m currently learning  ... **Back-end:** Java | PostgreSQL 
 - 💞️ I’m looking to collaborate on ... Toda aria de progamação
